@@ -1,7 +1,5 @@
 MIT License
 
-Copyright (c) 2026 Kaimo Mocoro
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +17,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Additional Notice:
+
+本軟體使用了 Apple Inc. 的 AVFoundation 框架和相關語音合成技術。
+This software uses Apple Inc.'s AVFoundation framework and related speech synthesis technology.
+Apple 的軟體和技術的使用應遵守 Apple 的最終使用者許可協議（EULA）。
+本軟體的散佈不包含 Apple 的任何所有權聲明。
+Use of Apple software and technology should comply with Apple's End User License Agreement (EULA).
+
+產生的音訊檔案的著作權和使用責任由使用者自行承擔。使用者應確保其使用方式
+符合當地法規，並尊重第三方的智慧財產權。
+The copyright and liability for the use of the generated audio files are the responsibility of the user. The user should ensure that their use complies with local regulations and respects the intellectual property rights of third parties.
+
+開發者不對本軟體的使用後果、產生的音訊內容或任何間接損失承擔責任。
+Developers are not responsible for the consequences of using this software, the generated audio content, or any indirect losses.
