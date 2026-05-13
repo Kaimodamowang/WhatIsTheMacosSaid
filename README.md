@@ -2,7 +2,7 @@
 
 使用基於 macOS "Say"指令的文字轉語音應用程式，使用 SwiftUI 建構。（本說明檔由Guanzi(Ai)生成）
 
-[![pemK2rR.png](https://s41.ax1x.com/2026/03/19/pemK2rR.png)](https://imgchr.com/i/pemK2rR)
+[![pemK2rR.png](https://github.com/Kaimodamowang/WhatIsTheMacosSaid/blob/main/理想狀態運行截圖.png)](https://github.com/Kaimodamowang/WhatIsTheMacosSaid/blob/main/理想狀態運行截圖.png)
 
 ## 功能特色
 
